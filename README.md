@@ -1,5 +1,5 @@
 <div style="display: flex;" align="start">
-<h2>Opa! Me chamo Gabriel Montoni, um mero estudante de tecnologia</h2>
+<h2>Opa! Me chamo Gabriel Montoni, um mero estudante de tecnologia!</h2>
 </div>
 
 
@@ -14,8 +14,7 @@ Idealize, torne real. Let's rock the future.
 </div>
 
 
-### Tecnologias que utilizo:
----
+## Tecnologias que utilizo:
 <div style="display: inline_block" align="center"><br>
   <center><img align="center" alt="HTML" height="80" width="80" src="https://user-images.githubusercontent.com/121250213/233282210-2732ec05-13f8-4160-a2ff-0f75621f0228.png">&nbsp;&nbsp;
   <img align="center" alt="CSS" height="80"  width="80" src="https://user-images.githubusercontent.com/121250213/233283852-6f9a1b55-4ad1-445c-bd0e-47f97185bd8c.png">&nbsp;&nbsp;
@@ -24,8 +23,7 @@ Idealize, torne real. Let's rock the future.
 </div>
 
 
-### Em fase de aprendizado:
----
+## Em fase de aprendizado:
 <div style="display: inline_block" align="center"><br>
   <center><img align="center" alt="React Native" height="80" width="80" src="https://user-images.githubusercontent.com/121250213/233266357-1dfb0963-40a9-40b7-97cb-47d45d857429.png">&nbsp;&nbsp;
   <img align="center" alt="JavaScript" height="80"  width="80" src="https://user-images.githubusercontent.com/121250213/233292519-56a243b3-b509-45c1-9111-dc74b3e6d546.png">
