@@ -28,4 +28,10 @@
   <center><img align="center" alt="React Native" height="80" width="80" src="https://user-images.githubusercontent.com/121250213/233266357-1dfb0963-40a9-40b7-97cb-47d45d857429.png">&nbsp;&nbsp;
   <img align="center" alt="JavaScript" height="80"  width="80" src="https://user-images.githubusercontent.com/121250213/233292519-56a243b3-b509-45c1-9111-dc74b3e6d546.png">
   </center>
+
+<br><br>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfmontoni&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfmontoni&size_weight=0.5&count_weight=0.5)
